@@ -22,6 +22,8 @@ ______________________________________________**********************************
 https://registry.terraform.io/providers/hashicorp/google/latest/docs/resources/dataflow_job.html
 
 https://github.com/slilichenko/dataflow-jdbc-replication/tree/main/terraform
+
+https://cloud.google.com/dataflow/docs/guides/templates/provided/jdbc-to-bigquery#api
 ______________________________________________**************************************************______________________________________________
 
 provider "google" {
